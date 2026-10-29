@@ -41,7 +41,7 @@ The overview page highlights key sales KPIs and compares yearly performance with
 
 This page focuses on year-to-date/month-to-date style comparisons and shows the selected year's daily sales progression. In the example shown, **2022** is selected and the cumulative chart reaches approximately **22.8M**.
 
-![Same Period Last Year Report](images/Same%20period%20Last%20year.png)
+![Same period Last year.png](https://github.com/Tinku679/Power-BI-Data-Analytics-Projects/blob/main/Same%20period%20%20Last%20year.png)
 
 ### 3. MID Report — Sales and Customer Insights
 
