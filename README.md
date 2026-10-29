@@ -6,7 +6,7 @@
 
 **Turning mobile sales data into actionable business insights**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dashboard.png](https://github.com/Tinku679/Power-BI-Data-Analytics-Projects/blob/main/Dashboard.png)
 ![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-2563EB?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Portfolio%20Project-198754?style=for-the-badge)
 
