@@ -35,7 +35,7 @@ The report brings key performance indicators and detailed visuals into one place
 
 The overview page highlights key sales KPIs and compares yearly performance with the previous year. Filters allow users to explore the report by mobile model, payment method, and date hierarchy.
 
-![Main Mobile Sales Dashboard](images/Dashboard.png)
+![Dashboard.png](https://github.com/Tinku679/Power-BI-Data-Analytics-Projects/blob/main/Dashboard.png)
 
 ### 2. Same Period Last Year Analysis
 
