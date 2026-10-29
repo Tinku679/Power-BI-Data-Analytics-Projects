@@ -47,7 +47,7 @@ This page focuses on year-to-date/month-to-date style comparisons and shows the 
 
 This page provides a more detailed view of monthly quantity, customer-rating categories, payment-method transactions, brand performance, mobile-model sales, and weekday sales patterns.
 
-![Mobile Sales MID Report](images/MID%20report.png)
+![MID report.png](https://github.com/Tinku679/Power-BI-Data-Analytics-Projects/blob/main/MID%20report.png)
 
 ## 📊 Key Metrics Shown
 
